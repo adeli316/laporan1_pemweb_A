@@ -1,0 +1,18 @@
+/* Adelia Sugiarto_202432009 */
+
+body {
+  background: linear-gradient(135deg, rgb(35, 33, 33) 0%, rgb(28, 40, 60) 100%);
+  min-height: 100vh;
+}
+
+.card {
+  background-color: #4a5568 !important;
+}
+
+.nav-link:hover {
+  color: #f1c40f !important;
+}
+
+.nav-link.active {
+  color: white !important;
+}
